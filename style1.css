@@ -1,0 +1,136 @@
+/*Laptop with 1280 px*/
+#Filter{
+    display: flex;
+    flex-flow: wrap;
+}
+.evenSection{
+    display: flex;
+    flex: 1 1 16%;
+    border: 1px solid;
+    justify-content: center;
+    padding: 2px 20px;
+}
+.oddSection{
+    display: flex;
+    flex: 1 1 16%;
+    border: 1px solid; 
+    justify-content: center;
+    padding: 2px 20px;
+}
+.sideFilter{
+    width: 90%;
+    margin: 2px;
+}
+.MainDiv{
+    display: flex;
+}
+.buttonShape{
+    margin: 5px 5px;
+    background-color: #9ACD32;
+}
+.sideDivStyle{
+    border: 1px solid;
+    /* flex: 1 1 17%; */
+    margin: -5px 20px 30px 6px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: white;
+    border-radius: 5px;
+    padding: 0 4px 0px 8px;
+    width: 20%;
+}
+#PostSection{
+    max-height: 550px;
+    display: flex;
+    margin: 2px 2px;
+    flex-wrap: wrap;
+}
+.blockSectionPara{
+    width: 100%;
+    text-align: center;
+    max-height: 0px;
+}
+.blocksectionHr{
+    width:75%;
+    height: 0px;
+    background: black;
+}
+.FilterWrap{
+    display: flex;
+    width: 9%;
+    border: 1px solid;
+    flex-flow: wrap;
+    font-size: 1em;
+}
+.blockSectionParaSuccess{
+    width: 100%;
+    text-align: center;
+    max-height: 0px;
+    font-size: 0.8em;
+}
+body{
+    background: #E8E8E8;
+}
+.sideParaImage{
+    display: flex;
+    width: 85%;
+    height: 150px;
+}
+.sideParaMissionIdEleLI{
+    position: relative;
+    left: 17px;
+    bottom: 10px;
+}
+.SupportDiv{
+    display: flex;
+}
+.sideParaStyleSucessSpan{
+    position: relative;
+    top: 16px;
+    
+}
+#successfullLaunch{
+    display: flex;
+    flex-flow: wrap;
+}
+#successfullLanding{
+    display: flex;
+    flex-flow: wrap;
+}
+.blockSectionParaSuccess{
+    width: 100%;
+    text-align: center;
+    max-height: 0px;
+}
+.blockSectionParaSuccess{
+    width: 100%;
+    text-align: center;
+    max-height: 0px;
+}
+.styleUL{
+    position: relative;
+    right: 40px;
+    font-weight: bold;
+}
+.sideParaStyleSucessPara{
+    font-weight: bold;
+}
+.anchorStyle{
+    text-decoration: none;
+    color: blue;
+    display:flex;
+}
+.SupportDiv{
+    position: relative;
+    bottom: 17px;
+}
+.sideParaStyleSucess{
+    position: relative;
+    left: 8px;
+}
+.sideParaStyleSucess {
+    position: relative;
+    left: 7px;
+    }
+
