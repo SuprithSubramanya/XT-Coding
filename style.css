@@ -126,5 +126,9 @@
         position: relative;
         left: 8px;
     }
-     
+    .SupportDivLanding{
+        position: relative;
+        bottom: 17px;
+        display: flex;
+        } 
   }
