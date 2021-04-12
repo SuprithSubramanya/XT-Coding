@@ -73,17 +73,16 @@ body{
     background: #E8E8E8;
 }
 .sideParaImage{
-    display: flex;
     width: 85%;
+    position: relative;
     height: 150px;
+    left: 25px;
+    top: 10px;
 }
 .sideParaMissionIdEleLI{
     position: relative;
     left: 17px;
     bottom: 10px;
-}
-.SupportDiv{
-    display: flex;
 }
 .sideParaStyleSucessSpan{
     position: relative;
@@ -120,10 +119,11 @@ body{
     text-decoration: none;
     color: blue;
     display:flex;
+    position: relative;
+    top: 6px;
 }
 .SupportDiv{
-    position: relative;
-    bottom: 17px;
+    display: flex;
 }
 .sideParaStyleSucess{
     position: relative;
@@ -132,5 +132,13 @@ body{
 .sideParaStyleSucess {
     position: relative;
     left: 7px;
+    }
+    .SupportDivLanding{
+    position: relative;
+    bottom: 17px;
+    display: flex;
+    }
+    .LauchDetails{
+
     }
 
